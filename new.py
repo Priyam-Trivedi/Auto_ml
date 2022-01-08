@@ -1,6 +1,6 @@
 import streamlit as st
 
-import streamlit as st
+# import streamlit as st
 import pandas as pd
 import pandas_profiling as pp
 import time
@@ -11,7 +11,7 @@ import webbrowser
 
 import numpy as np
 from scikitplot.metrics import plot_confusion_matrix
-from textblob import TextBlob
+# from textblob import TextBlob
 import seaborn as sns
 # from nlp import NLPNaive
 
